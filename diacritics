@@ -1,0 +1,83 @@
+<Multi_key> <A> <apostrophe> : "Á"
+<Multi_key> <a> <apostrophe> : "á"
+<Multi_key> <apostrophe> <A> : "Á"
+<Multi_key> <apostrophe> <a> : "á"
+
+<Multi_key> <A> <grave> : "À"
+<Multi_key> <a> <grave> : "à"
+<Multi_key> <grave> <A> : "À"
+<Multi_key> <grave> <a> : "à"
+
+<Multi_key> <A> <quotedbl> : "Ä"
+<Multi_key> <a> <quotedbl> : "ä"
+<Multi_key> <quotedbl> <A> : "Ä"
+<Multi_key> <quotedbl> <a> : "ä"
+
+
+<Multi_key> <E> <apostrophe> : "É"
+<Multi_key> <e> <apostrophe> : "é"
+<Multi_key> <apostrophe> <E> : "É"
+<Multi_key> <apostrophe> <e> : "é"
+
+<Multi_key> <E> <grave> : "È"
+<Multi_key> <e> <grave> : "è"
+<Multi_key> <grave> <E> : "È"
+<Multi_key> <grave> <e> : "è"
+
+<Multi_key> <E> <quotedbl> : "Ë"
+<Multi_key> <e> <quotedbl> : "ë"
+<Multi_key> <quotedbl> <E> : "Ë"
+<Multi_key> <quotedbl> <e> : "ë"
+
+
+<Multi_key> <I> <apostrophe> : "Í"
+<Multi_key> <i> <apostrophe> : "í"
+<Multi_key> <apostrophe> <I> : "Í"
+<Multi_key> <apostrophe> <i> : "í"
+
+<Multi_key> <I> <grave> : "Ì"
+<Multi_key> <i> <grave> : "ì"
+<Multi_key> <grave> <I> : "Ì"
+<Multi_key> <grave> <i> : "ì"
+
+<Multi_key> <I> <quotedbl> : "Ï"
+<Multi_key> <i> <quotedbl> : "ï"
+<Multi_key> <quotedbl> <I> : "Ï"
+<Multi_key> <quotedbl> <i> : "ï"
+
+
+<Multi_key> <O> <apostrophe> : "Ó"
+<Multi_key> <o> <apostrophe> : "ó"
+<Multi_key> <apostrophe> <O> : "Ó"
+<Multi_key> <apostrophe> <o> : "ó"
+
+<Multi_key> <O> <grave> : "Ò"
+<Multi_key> <o> <grave> : "ò"
+<Multi_key> <grave> <O> : "Ò"
+<Multi_key> <grave> <o> : "ò"
+
+<Multi_key> <O> <quotedbl> : "Ö"
+<Multi_key> <o> <quotedbl> : "ö"
+<Multi_key> <quotedbl> <O> : "Ö"
+<Multi_key> <quotedbl> <o> : "ö"
+
+
+<Multi_key> <U> <apostrophe> : "Ú"
+<Multi_key> <u> <apostrophe> : "ú"
+<Multi_key> <apostrophe> <U> : "Ú"
+<Multi_key> <apostrophe> <u> : "ú"
+
+<Multi_key> <U> <grave> : "Ù"
+<Multi_key> <u> <grave> : "ù"
+<Multi_key> <grave> <U> : "Ù"
+<Multi_key> <grave> <u> : "ù"
+
+<Multi_key> <U> <quotedbl> : "Ü"
+<Multi_key> <u> <quotedbl> : "ü"
+<Multi_key> <quotedbl> <U> : "Ü"
+<Multi_key> <quotedbl> <u> : "ü"
+
+<Multi_key> <quotedbl> <Cyrillic_YERU> : "Ӹ"
+<Multi_key> <Cyrillic_YERU> <quotedbl> : "Ӹ"
+<Multi_key> <quotedbl> <Cyrillic_yeru> : "ӹ"
+<Multi_key> <Cyrillic_yeru> <quotedbl> : "ӹ"

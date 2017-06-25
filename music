@@ -1,0 +1,10 @@
+<Multi_key> <numbersign> <b>                    : "♭" # MUSIC FLAT SIGN
+<Multi_key> <numbersign> <f>                    : "♮" # MUSIC NATURAL SIGN
+<Multi_key> <numbersign> <equal>                : "♮" # MUSIC NATURAL SIGN
+<Multi_key> <numbersign> <numbersign>           : "♯" # MUSIC SHARP SIGN
+<Multi_key> <numbersign> <G>                    : "𝄞" # MUSICAL SYMBOL G CLEF
+<Multi_key> <numbersign> <F>                    : "𝄢" # MUSICAL SYMBOL F CLEF
+<Multi_key> <numbersign> <C>                    : "𝄡" # MUSICAL SYMBOL C CLEF
+<Multi_key> <numbersign> <o> <slash>            : "♪" # EIGHTH NOTE
+<Multi_key> <numbersign> <o> <o>                : "♫" # BEAMED EIGHTH NOTES
+<Multi_key> <numbersign> <percent>              : "♫" # BEAMED EIGHTH NOTES

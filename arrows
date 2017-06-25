@@ -1,0 +1,19 @@
+<Multi_key> <minus> <Right>                     : "→"
+<Multi_key> <minus> <greater>                   : "→"
+<Multi_key> <minus> <Left>                      : "←"
+<Multi_key> <less> <minus>                      : "←"
+<Multi_key> <minus> <Up>                        : "↑"
+<Multi_key> <minus> <Down>                      : "↓"
+
+# <Multi_key> <Left> <minus> <Right>            : "↔"
+# <Multi_key> <Up> <minus> <Down>               : "↕"
+
+<Multi_key> <equal> <Right>                     : "⇒"
+<Multi_key> <equal> <greater>                   : "⇒"
+<Multi_key> <equal> <Left>                      : "⇐"
+<Multi_key> <less> <equal>                      : "⇐"
+<Multi_key> <equal> <Up>                        : "⇑"
+<Multi_key> <equal> <Down>                      : "⇓"
+
+# <Multi_key> <Left> <equal> <Right>            : "⇔"
+# <Multi_key> <Up> <equal> <Down>               : "⇕"

@@ -1,0 +1,64 @@
+<Multi_key> <E> <E>                             : "∃" # there exists
+<Multi_key> <exclam> <E> <E>                    : "∄" # there does not exist
+<Multi_key> <A> <A>                             : "∀" # for all
+
+<Multi_key> <plus> <minus>                      : "±"
+<Multi_key> <minus> <plus>                      : "∓"
+
+<Multi_key> <less> <equal>                      : "≤"
+<Multi_key> <greater> <equal>                   : "≥"
+<Multi_key> <equal> <equal> <equal>             : "≡"
+
+<Multi_key> <slash> <equal>                     : "≠"
+<Multi_key> <exclam> <equal>                    : "≠"
+<Multi_key> <slash> <less>                      : "≮"
+<Multi_key> <slash> <greater>                   : "≯"
+
+<Multi_key> <equal> <asciitilde>                : "≈"
+<Multi_key> <equal> <slash> <asciitilde>        : "≉"
+<Multi_key> <equal> <exclam> <asciitilde>       : "≉"
+
+<Multi_key> <v> <slash>                         : "√"
+<Multi_key> <8> <8>                             : "∞"
+
+
+## Superscript
+
+<Multi_key> <asciicircum> <0>                   : "⁰"
+<Multi_key> <asciicircum> <1>                   : "¹"
+<Multi_key> <asciicircum> <2>                   : "²"
+<Multi_key> <asciicircum> <3>                   : "³"
+<Multi_key> <asciicircum> <4>                   : "⁴"
+<Multi_key> <asciicircum> <5>                   : "⁵"
+<Multi_key> <asciicircum> <6>                   : "⁶"
+<Multi_key> <asciicircum> <7>                   : "⁷"
+<Multi_key> <asciicircum> <8>                   : "⁸"
+<Multi_key> <asciicircum> <9>                   : "⁹"
+<Multi_key> <asciicircum> <plus>                : "⁺"
+<Multi_key> <asciicircum> <minus>               : "⁻"
+<Multi_key> <asciicircum> <equal>               : "⁼"
+<Multi_key> <asciicircum> <parenleft>           : "⁽"
+<Multi_key> <asciicircum> <parenright>          : "⁾"
+<Multi_key> <asciicircum> <i>                   : "ⁱ"
+<Multi_key> <asciicircum> <n>                   : "ⁿ"
+
+
+## Subscript
+
+<Multi_key> <underscore> <0>                    : "₀"
+<Multi_key> <underscore> <1>                    : "₁"
+<Multi_key> <underscore> <2>                    : "₂"
+<Multi_key> <underscore> <3>                    : "₃"
+<Multi_key> <underscore> <4>                    : "₄"
+<Multi_key> <underscore> <5>                    : "₅"
+<Multi_key> <underscore> <6>                    : "₆"
+<Multi_key> <underscore> <7>                    : "₇"
+<Multi_key> <underscore> <8>                    : "₈"
+<Multi_key> <underscore> <9>                    : "₉"
+<Multi_key> <underscore> <plus>                 : "₊"
+<Multi_key> <underscore> <minus>                : "₋"
+<Multi_key> <underscore> <equal>                : "₌"
+<Multi_key> <underscore> <parenleft>            : "₍"
+<Multi_key> <underscore> <parenright>           : "₎"
+<Multi_key> <underscore> <i>                    : "ᵢ"
+<Multi_key> <underscore> <n>                    : "ₙ"

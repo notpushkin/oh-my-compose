@@ -1,0 +1,20 @@
+<Multi_key> <period> <minus>                    : "·"
+<Multi_key> <x> <x>                             : "×"
+<Multi_key> <O> <C>                             : "©"
+<Multi_key> <O> <R>                             : "®"
+<Multi_key> <T> <M>                             : "™"
+
+<Multi_key> <o> <x>                             : "¤" # currency sign
+<Multi_key> <e> <equal>                         : "€" # euro sign
+<Multi_key> <slash> <c>                         : "¢" # cent sign
+<Multi_key> <o> <o>                             : "°"
+
+<Multi_key> <s> <s>                             : "§" # section sign
+<Multi_key> <p> <p>                             : "¶" # paragraph sign
+<Multi_key> <less> <less>                       : "«"
+<Multi_key> <greater> <greater>                 : "»"
+<Multi_key> <less> <greater>                    : "«»"
+<Multi_key> <period> <period>                   : "…"
+
+<Multi_key> <minus> <minus> <period>            : "–" # En dash: for numbers: 1–2
+<Multi_key> <minus> <minus> <minus>             : "—" # Em dash: for text: "What?" — he said.
