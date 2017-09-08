@@ -5,16 +5,41 @@
 <Multi_key> <T> <M>                             : "™"
 
 <Multi_key> <o> <x>                             : "¤" # currency sign
-<Multi_key> <e> <equal>                         : "€" # euro sign
-<Multi_key> <slash> <c>                         : "¢" # cent sign
+<Multi_key> <slash> <c>                         : "¢"
 <Multi_key> <o> <o>                             : "°"
+
+<Multi_key> <e> <equal>                         : " Deprecated, use E U R instead or override"
+<Multi_key> <E> <U> <R>                         : "€"
+<Multi_key> <R> <U> <B>                         : "₽"
+<Multi_key> <J> <P> <Y>                         : "¥"
 
 <Multi_key> <s> <s>                             : "§" # section sign
 <Multi_key> <p> <p>                             : "¶" # paragraph sign
+<Multi_key> <period> <period>                   : "…"
+<Multi_key> <period> <bar>                      : "⋮"
+
 <Multi_key> <less> <less>                       : "«"
 <Multi_key> <greater> <greater>                 : "»"
 <Multi_key> <less> <greater>                    : "«»"
-<Multi_key> <period> <period>                   : "…"
+<Multi_key> <grave> <grave>                     : "“" # Like ``...'' in old *nix docs
+<Multi_key> <apostrophe> <apostrophe>           : "”"
 
-<Multi_key> <minus> <minus> <period>            : "–" # En dash: for numbers: 1–2
+<Multi_key> <Cyrillic_BE> <Cyrillic_BE>         : "«"
+<Multi_key> <Cyrillic_YU> <Cyrillic_YU>         : "»"
+<Multi_key> <Cyrillic_BE> <Cyrillic_YU>         : "«»"
+<Multi_key> <Cyrillic_be> <Cyrillic_be>         : "„"
+<Multi_key> <Cyrillic_yu> <Cyrillic_yu>         : "“"
+<Multi_key> <Cyrillic_be> <Cyrillic_yu>         : "„“"
+
 <Multi_key> <minus> <minus> <minus>             : "—" # Em dash: for text: "What?" — he said.
+<Multi_key> <minus> <minus> <period>            : "–" # En dash: for numbers: 1–2
+<Multi_key> <minus> <1>                         : "–1"
+<Multi_key> <minus> <2>                         : "–2"
+<Multi_key> <minus> <3>                         : "–3"
+<Multi_key> <minus> <4>                         : "–4"
+<Multi_key> <minus> <5>                         : "–5"
+<Multi_key> <minus> <6>                         : "–6"
+<Multi_key> <minus> <7>                         : "–7"
+<Multi_key> <minus> <8>                         : "–8"
+<Multi_key> <minus> <9>                         : "–9"
+<Multi_key> <minus> <0>                         : "–0"
