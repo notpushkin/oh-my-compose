@@ -12,8 +12,11 @@
 <Multi_key> <slash> <equal>                     : "≠"
 <Multi_key> <exclam> <equal>                    : "≠"
 <Multi_key> <slash> <less>                      : "≮"
+<Multi_key> <exclam> <less>                     : "≮"
 <Multi_key> <slash> <greater>                   : "≯"
+<Multi_key> <exclam> <greater>                  : "≯"
 
+<Multi_key> <asciitilde> <equal>                : "≈"
 <Multi_key> <equal> <asciitilde>                : "≈"
 <Multi_key> <equal> <slash> <asciitilde>        : "≉"
 <Multi_key> <equal> <exclam> <asciitilde>       : "≉"
