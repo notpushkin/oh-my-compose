@@ -1,0 +1,7 @@
+<Multi_key> <quotedbl> <Cyrillic_YERU> : "Ӹ"
+<Multi_key> <quotedbl> <Cyrillic_yeru> : "ӹ"
+<Multi_key> <Cyrillic_YERU> <quotedbl> : "Ӹ"
+<Multi_key> <Cyrillic_yeru> <quotedbl> : "ӹ"
+
+<Multi_key> <Cyrillic_EL> <Cyrillic_SOFTSIGN> : "Љ"
+<Multi_key> <Cyrillic_el> <Cyrillic_softsign> : "љ"

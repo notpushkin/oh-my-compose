@@ -76,8 +76,3 @@
 <Multi_key> <u> <quotedbl> : "ü"
 <Multi_key> <quotedbl> <U> : "Ü"
 <Multi_key> <quotedbl> <u> : "ü"
-
-<Multi_key> <quotedbl> <Cyrillic_YERU> : "Ӹ"
-<Multi_key> <Cyrillic_YERU> <quotedbl> : "Ӹ"
-<Multi_key> <quotedbl> <Cyrillic_yeru> : "ӹ"
-<Multi_key> <Cyrillic_yeru> <quotedbl> : "ӹ"
