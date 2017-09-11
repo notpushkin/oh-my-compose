@@ -43,3 +43,7 @@
 <Multi_key> <minus> <8>                         : "–8"
 <Multi_key> <minus> <9>                         : "–9"
 <Multi_key> <minus> <0>                         : "–0"
+
+<Multi_key> <0> <s> <p> : U200B # Zero width space
+<Multi_key> <0> <n> <j> : U200C # Zero width non-joiner
+<Multi_key> <0> <j> <n> : U200D # Zero width joiner
